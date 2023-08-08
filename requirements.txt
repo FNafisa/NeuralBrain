@@ -1,0 +1,11 @@
+gradio
+numpy
+pydub
+pandas
+matplotlib
+IPython
+librosa
+torch
+tqdm
+tensorflow
+pathlib
